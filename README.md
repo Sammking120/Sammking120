@@ -1,16 +1,78 @@
 ## Hi there 👋
+# 👋 Hi, I'm Sammy King'ori!
 
+<h3 align="center">
+  Aspiring Cloud & DevOps Engineer | AWS | Linux | Networking | Automation
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+my+Cloud+and+DevOps+skills;Exploring+AWS+and+Linux;Learning+CI%2FCD+and+Automation;Turning+ideas+into+real+projects" alt="Typing introduction" />
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm passionate about technology, cloud computing, networking, and automation. I'm continuously learning and building practical projects to strengthen my skills.
+
+- ☁️ Exploring **AWS Cloud Computing**
+- 🐧 Learning **Linux Administration**
+- 🌐 Developing skills in **Network Infrastructure**
+- 🔄 Exploring **CI/CD and DevOps Automation**
+- 🐳 Learning **Docker and Container Orchestration**
+- 🔐 Interested in **Cloud and Infrastructure Security**
+- 🎯 Focused on building real-world technical projects
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,git,github,githubactions,terraform,nginx,vscode,vim&perline=6" alt="Technology skills" />
+</p>
+
+### 📚 Currently Learning
+
+- AWS Cloud Practitioner concepts
+- Linux system administration
+- Networking fundamentals and infrastructure
+- Docker and Kubernetes
+- CI/CD pipelines and automation
+- Cloud security fundamentals
+
+### 💻 Featured Projects
 <!--
-**Sammking120/Sammking120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some projects I'm working on:
 
-Here are some ideas to get you started:
+| Project | Description | Technologies |
+|---|---|---|
+| [Project 1](YOUR_PROJECT_LINK) | Describe what you built and what problem it solves. | AWS, Linux |
+| [Project 2](YOUR_PROJECT_LINK) | Describe your networking or infrastructure project. | Networking, Linux |
+| [Project 3](YOUR_PROJECT_LINK) | Describe your automation or deployment project. | Docker, CI/CD |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sammy-kingori/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sammking120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to learn is by building."</i>
+</p>
