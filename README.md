@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Samm!
+<h2 align="center">
+  Python Backend Developer | Django | REST APIs | Database Design
+</h2>
 
 <h3 align="center">
   Python Backend Developer | Django | REST APIs | Database Design
