@@ -1,6 +1,6 @@
-<h4 align="center">
- Hello, I'm SAMMY KING'ORI
-</h4>
+<h1 align="center">
+ Hello, I'm SAMMY KING'ORI👋
+</h1>
 
 <h3 align="center">
   Aspiring Cloud & DevOps Engineer | AWS | Python Backend Developer | Django | REST APIs
