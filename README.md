@@ -1,5 +1,5 @@
 <h2 align="center">
-  Python Backend Developer | Django | REST APIs | Database Design
+ Hello, I am Sammy King'ori
 </h2>
 
 <h3 align="center">
