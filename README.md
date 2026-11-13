@@ -1,22 +1,5 @@
 
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        h1 {
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          font-size: 36px;
-          font-weight: bold;
-          text-align: center;
-          background: linear-gradient(90deg, #ff7e5f, #feb47b);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-      </style>
-      <h1>Hello, I'm SAMMY KING'ORI👋</h1>
-    </div>
-  </foreignObject>
-</svg>
+<h1 align="center"> $\textsf{\color{blue}Hello, I'm SAMMY KING'ORI👋}$ </h1>
 
 <h1 align="center">
  Hello, I'm SAMMY KING'ORI👋
