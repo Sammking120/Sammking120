@@ -1,6 +1,4 @@
 <p align="center"><a href="https://sammking.net"><img width="50%" alt=" Hello, I'm Sammy King'ori. Backend Software Engineer!" src="./assets/readme-header.png" /></a></p>
-<br />
-
 <h3 align="center">
   Backend Software Engineer | API Development | Database Design | Software Engineering
 </h3>
