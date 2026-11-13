@@ -1,45 +1,10 @@
+<p align="center"><a href="https://sammking.net"><img width="80%" alt="Hello, I'm Sammy King'ori. Backend Software Engineer!" src="./assets/gh-readme-header.png" /></a></p>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="750" height="160" viewBox="0 0 750 160">
+<br />
 
-  <rect x="7" y="12" width="736" height="143"
-        rx="12" fill="#111827"/>
-
-  <text x="375" y="51"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="23"
-        font-weight="bold"
-        fill="#F9FAFB">
-    Hi, I'm Samm 👋
-  </text>
-
-  <text x="375" y="88"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="19"
-        font-weight="bold"
-        fill="#60A5FA">
-    Python Backend Developer
-  </text>
-
-  <text x="375" y="119"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="14"
-        fill="#D1D5DB">
-    Django · REST APIs · PostgreSQL · Backend Architecture
-  </text>
-
-  <text x="375" y="140"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="12"
-        fill="#93C5FD">
-    Building useful, secure and maintainable backend systems.
-  </text>
-
-</svg>
+<h3 align="center">
+  Backend Software Engineer | API Development | Database Design | Software Engineering
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+reliable+backend+applications;Developing+RESTful+APIs+with+Python;Designing+database-driven+solutions;Writing+clean%2C+maintainable+code" alt="Backend development introduction" />
