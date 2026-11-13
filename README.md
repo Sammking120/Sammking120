@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sammking.net"><img width="80%" alt="Hello, I'm Sammy King'ori. Backend Software Engineer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://sammking.net"><img width="80%" alt="Hello, I'm Sammy King'ori. Backend Software Engineer!" src="./assets/readme-header.png" /></a></p>
 
 <br />
 
