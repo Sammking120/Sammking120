@@ -100,5 +100,7 @@ Here are some projects I'm working on:
   <i>"The best way to learn is by building."</i>
   
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammking120&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
  
