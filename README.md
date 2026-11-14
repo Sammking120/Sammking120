@@ -14,9 +14,6 @@
 
 I'm passionate about technology, cloud computing, networking, and automation. I'm continuously learning and building practical projects to strengthen my skills.
 
-- ☁️ Exploring **AWS Cloud Computing**
-- 🐧 Learning **Linux Administration**
-- 🌐 Developing skills in **Network Infrastructure**
 - 🔄 Exploring **CI/CD and DevOps Automation**
 - 🐳 Learning **Docker and Container Orchestration**
 - 🔐 Interested in **Cloud and Infrastructure Security**
@@ -97,10 +94,10 @@ Here are some projects I'm working on:
    
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammking120&theme=great_gatsby" alt="sammking120" /></p>
  
-
 </details>
 
 
 <p align="center">
   <i>"The best way to learn is by building."</i>
+  ![Profile Views](https://komarev.com/ghpvc/?username=sammking120&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 </p>
