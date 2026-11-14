@@ -99,5 +99,6 @@ Here are some projects I'm working on:
 
 <p align="center">
   <i>"The best way to learn is by building."</i>
-  ![Profile Views](https://komarev.com/ghpvc/?username=sammking120&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+  
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
