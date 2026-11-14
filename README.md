@@ -81,7 +81,7 @@ Here are some projects I'm working on:
 
 </details>
 
-  <details>
+ <details>
   <summary><b>📈 My Top Languages</b></summary>
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammking120&theme=aura" alt="sammking120" 
@@ -92,8 +92,7 @@ Here are some projects I'm working on:
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammking120&theme=great_gatsby" alt="sammking120" /></p>
- 
+
 </details>
 
 
@@ -101,4 +100,5 @@ Here are some projects I'm working on:
   <i>"The best way to learn is by building."</i>
   
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+ 
