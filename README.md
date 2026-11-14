@@ -24,7 +24,7 @@ I'm passionate about technology, cloud computing, networking, and automation. I'
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,git,github,githubactions,terraform,nginx,vscode,vim&perline=6" alt="Technology skills" />
 </p>
 
@@ -47,7 +47,7 @@ Here are some projects I'm working on:
 | [Project 2](YOUR_PROJECT_LINK) | Describe your networking or infrastructure project. | Networking, Linux |
 | [Project 3](YOUR_PROJECT_LINK) | Describe your automation or deployment project. | Docker, CI/CD |
 
--->
+
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -70,7 +70,36 @@ Here are some projects I'm working on:
   </a>
 </p>
 
----
+--->
+
+</p>
+  </details>
+  
+  ## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
+ 
+
+</details>
+
 
 <p align="center">
   <i>"The best way to learn is by building."</i>
